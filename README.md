@@ -14,6 +14,8 @@ A Coloardo Board of Elections employee has given you the following taks to compl
 - Software: Python 3.7, Visual Studio Code 1.61.0
 
 ## Summary
+
+### Candidate Summary
 The analysis of the election show that: 
 - There were 369,711 votes cast in the election
 - The candidates were:
@@ -26,6 +28,8 @@ The analysis of the election show that:
   - Raymon Anthony Doane received 3.1% of the votes and 11,606 number of votes
 - The winnder of the election was:
   - Diana DeGete received 73.8% of the votes and 272,892 number of votes
+  
+  ### County Summary 
   
   ## Challenge Overview
   
